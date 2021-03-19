@@ -41,7 +41,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Where can I see your demo?
   - You can go to this [url](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 - What was your experience?
-  - My experience with this challnege was pretty fun since the desin was already there all i had to do was implement the design
+  - My experience with this challenge was pretty fun since the desin was already there all i had to do was implement the design
 - What have you learned/improved?
   - I learned how to use flexbox and media queries and implement a design using mobile first approach
 - Your wisdom? :)
