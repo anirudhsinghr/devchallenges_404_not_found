@@ -71,4 +71,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@anirudhsinghr](https://{github.com/your-usermame})
+- GitHub [@anirudhsinghr](https://github.com/anirudhsinghr)
